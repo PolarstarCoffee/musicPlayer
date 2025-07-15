@@ -1,0 +1,3 @@
+C:/dev/audioPlayer/out/build/x64-debug/CMakeFiles/audioPlayer.dir
+C:/dev/audioPlayer/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/dev/audioPlayer/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
